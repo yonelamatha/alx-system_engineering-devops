@@ -1,1 +1,1 @@
-find who is in
+find the current user
